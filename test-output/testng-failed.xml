@@ -5,8 +5,8 @@
     <classes>
       <class name="com.Models.request.GitApiAutomation">
         <methods>
-          <include name="UpdateRepo"/>
           <include name="setUp"/>
+          <include name="GetAllRepos"/>
         </methods>
       </class> <!-- com.Models.request.GitApiAutomation -->
     </classes>
